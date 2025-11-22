@@ -1,5 +1,5 @@
 # About Me:
-💻 Building full-stack apps<br>👨‍💻 Open-source contributor to GitLab & competitive programmer<br>🎓 Master's student at Wilfrid Laurier University<br>📍 Oakville, Ontario
+🤖 Creator of Voxa (AI Customer Support SaaS)<br>💻 Building full-stack apps<br>👨‍💻 Open-source contributor to GitLab & competitive programmer<br>🎓 Master's student at Wilfrid Laurier University<br>📍 Oakville, Ontario
 
 
 ## 🌐 Socials:
